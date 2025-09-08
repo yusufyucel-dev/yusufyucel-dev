@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Yusuf!
+I'm a passionate learner focused on Cloud Computing, AWS, and DevOps.
 
-<!--
-**yusufyucel-dev/yusufyucel-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Currently preparing for the **AWS Cloud Practitioner (CLF-C02)** exam.  
+✍️ Writing daily AWS posts on [Medium](https://medium.com/@yusufdataen)  
+📘 Reading: Atomic Habits | Rich Dad Poor Dad
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- ☁️ AWS (EC2, S3, Lambda, IAM, CloudWatch)
+- 🐧 Linux • Bash • Git
+- 🛠️ Terraform (IaC) | Docker | GitHub Actions (CI/CD)
+- 📊 Medium Writing | Markdown | Visual Writing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Reach Me
+- 📩 Email: yusufdataen@gmail.com
+- 🐦 Medium: [@yourhandle](https://medium.com/@yusufdataen)
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yusuf-yucel/)
+
+
+
