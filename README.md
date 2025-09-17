@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Yusuf!
 I'm a passionate learner focused on Cloud Computing, AWS, and DevOps.
 
-🚀 Currently preparing for the **AWS Cloud Practitioner (CLF-C02)** exam.  
-✍️ Writing daily AWS posts on [Medium](https://medium.com/@yusufdataen)  
-📘 Reading: Atomic Habits | Rich Dad Poor Dad
+
+✍️ Writing daily AWS posts on [Medium](https://medium.com/@yusufdataen)
 
 ## 🛠️ Tech Stack
 - ☁️ AWS (EC2, S3, Lambda, IAM, CloudWatch)
